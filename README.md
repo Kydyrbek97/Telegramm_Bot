@@ -1,3 +1,3 @@
 # Telegramm_Bot
-#pip install requirements.txt
-#python3 main.py
+1)pip install requirements.txt
+2)python3 main.py
